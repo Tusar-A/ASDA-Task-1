@@ -1,0 +1,11 @@
+<h2> Three Dataset that I selected </h2>
+
+<h3>1. Student Depression Dataset</h3>
+The dataset provides insights of around 28k students depression status. it includes details about the profession, academic pressure, work pressure, CGPA, study satisfaction, sleep and diet habits, and also their financial and mental health status. The insights this dataset shows, what are the main factors that influences depression of a student, especially in international environment.
+
+
+<h5>Why I chose this dataset</h5>
+This year, several Bangladeshi student suicided in Germany. There are so many thoughts behind their suicide, some says it's because of home sickness, some says because of money or something else. My goal is to find out the root cause of this situations at which point a student think for suicide. Analyzing this, we will be able to findout where we need to work to overcome this situation and students never think doing this things.
+
+Data Source: https://www.kaggle.com/datasets/adilshamim8/student-depression-dataset
+
